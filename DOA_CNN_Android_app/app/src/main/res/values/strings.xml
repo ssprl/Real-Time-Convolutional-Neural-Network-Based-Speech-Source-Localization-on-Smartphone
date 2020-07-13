@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CNN_DOA</string>
+    <string name="appDirectory">RealTiRec</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="tvFrameTime">Threshold Time(ms):   </string>
+    <string name="tvStepSize">Angle：</string>
+    <string name="rbEnhanced">PLAYBACK: Enhanced Output</string>
+    <string name="rbOriginal">PLAYBACK: Original Output</string>
+
+    <string name="bSave">Save</string>
+    <string name="bReset">Reset</string>
+    <string name="bEnchanced">Result Saver</string>
+
+    <string name="etStepsize">0</string>
+    <string name="etSFxavg">0</string>
+    <string name="etFrametime">10</string>
+    <string name="tvNoiseType">Noise Type: </string>
+    <string name="tvPlayback">Playback: </string>
+    <string name="rbBabble">Babble</string>
+    <string name="rbDrivingCar">DrivingCar</string>
+    <string name="rbMachinery">Machinery</string>
+    <string name="Duration">7</string>
+    <string name="Threshold">20</string>
+
+</resources>
