@@ -13,7 +13,7 @@ https://youtu.be/7xadBuEBnGU
 
 ## Users Guides
 
-A [User's Guide](Users-Guide-Android_TwoMicDOA_version_2.pdf) is provided describing the real-time implementation on Android smartphone platforms.
+A [User's Guide](User’s Guide- Android_TwoMicDOA_version_4.pdf) is provided describing the real-time implementation on Android smartphone platforms.
 
 ## Requirements 
 
