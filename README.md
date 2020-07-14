@@ -21,7 +21,7 @@ A [User's Guide](Users-Guide-Android_TwoMicDOA_version_2.pdf)is provided describ
 
 ## License and Citation
 
-The codes are licensed under MIT license.
+The codes are licensed under open-source MIT license.
 
 For any utilization of the code content of this repository, one of the following books needs to get cited by the user:
 
